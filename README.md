@@ -44,20 +44,3 @@ Atualmente, utilizo essa visão arquitetural para hospedar softwares em nuvem e 
 
 - **Técnico em Informática (Integrado ao Ensino Médio)** | *IFRO - Campus Ariquemes* `(2020 — 2022)`  
   *Foco:* Fundamentos de programação, algoritmos, montagem/manutenção de computadores e redes.
-
----
-
-### 📜 Certificações
-
-- 🛡️ **Cisco CCNA 1** — Introduction to Networks
-- 🌐 **MikroTik MTCNA** — Network Associate
-- 🔒 **SonicWall SNSA** — Network Security Administrator
-- 🤝 **CheckPoint** — Partners Certifications
-
----
-
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueRian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueRian&layout=compact&langs_count=7&theme=radical"/>
-</div>
