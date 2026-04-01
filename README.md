@@ -1,4 +1,4 @@
-# Olá, eu sou Kauê Rian 👋
+# Olá, me chamo Kauê Rian 👋
 
 **Desenvolvedor Full Stack | Cloud Infrastructure | Sysadmin**
 
